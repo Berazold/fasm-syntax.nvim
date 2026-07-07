@@ -40,6 +40,7 @@ Add the following to your lazy configuration:
         },
     },
 }
+```
 
 ## Screenshots
 
