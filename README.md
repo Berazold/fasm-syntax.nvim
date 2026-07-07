@@ -4,7 +4,7 @@ A modern comprehensive syntax highlighting plugin for Flat Assembler (FASM) in N
 
 Unlike older Vim scripts, this plugin is tailored for modern Neovim setups and provides extensive multi-architecture support out of the box, cleanly overriding Neovim's default assembler detection.
 
-## ✨ Features
+## Features
 
 - **Multi-Architecture Support:**
   - **x86 / x86_64:** Standard instructions, Segments, FPU, SSE, AVX (up to `zmm`), Control/Debug registers.
@@ -14,7 +14,7 @@ Unlike older Vim scripts, this plugin is tailored for modern Neovim setups and p
 - **FASM Specifics:** Highlights directives, macros (`match`, `irp`, `rept`), conditionals, and anonymous labels (`@@:`).
 - **Auto-Formatting:** Automatically sets up correct indentation, `tabstop`, and comment strings (`;`) for supported files.
 
-## ⚡️ Installation & Configuration
+## Installation & Configuration
 
 The plugin is designed to work perfectly with **[lazy.nvim](https://github.com/folke/lazy.nvim)**.
 
